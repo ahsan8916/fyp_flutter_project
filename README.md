@@ -1,16 +1,31 @@
-# appfinal
+# AppFinal – Flutter Final Year Project
 
-A new Flutter project.
+This is my Final Year Project built using Flutter. The app includes modern UI, Firebase backend, and real-world functionality for mobile development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication
+- 📝 Form Input and Validation
+- ☁️ Real-time Firebase Database
+- 📊 Data Display and Sync
+- 🌐 Internet Connectivity Handling
+- 🖼️ Clean UI Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- Flutter & Dart
+- Firebase (Auth, Firestore, Realtime DB)
+- Android SDK
+- Git & GitHub
+
+---
+
+## ▶️ How to Run
+
+```bash
+flutter pub get
+flutter run
