@@ -1,30 +1,31 @@
-# AppFinal – Flutter Final Year Project
+# 📱 Flutter Semester Project – appfinal
 
-This is my Final Year Project built using Flutter. The app includes modern UI, Firebase backend, and real-world functionality for mobile development.
+This is a mobile application developed using **Flutter** as part of my **semester final project**. The app includes login functionality, form input, and displays real-time data using Firebase.
 
 ---
 
 ## 🚀 Features
 
 - 🔐 Firebase Authentication
-- 📝 Form Input and Validation
-- ☁️ Real-time Firebase Database
-- 📊 Data Display and Sync
-- 🌐 Internet Connectivity Handling
-- 🖼️ Clean UI Design
+- 📝 Form input and validation
+- 🔥 Realtime Firebase Database integration
+- 🏠 Simple and responsive UI
+- 📷 Multiple screens with screenshot previews
 
 ---
 
 ## 🛠 Technologies Used
 
 - Flutter & Dart
-- Firebase (Auth, Firestore, Realtime DB)
+- Firebase (Auth + Database)
 - Android SDK
 - Git & GitHub
 
 ---
 
-## ▶️ How to Run
+## ▶️ Getting Started
+
+To run the project locally:
 
 ```bash
 flutter pub get
